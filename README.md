@@ -10,7 +10,7 @@ A Kotlin App for creating Grocery Lists.
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>&nbsp;
 
 
-## App Screenshots
+## App Screenshots...
 
 <img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/1.jpg" title="1"  alt="1" width="180" height="360"/>&nbsp;
 <img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/main/Screenshots/2.jpg" title="2"  alt="2" width="180" height="360"/>&nbsp;
