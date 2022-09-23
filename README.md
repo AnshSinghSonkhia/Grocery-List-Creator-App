@@ -1,5 +1,5 @@
 # Grocery List Creator App &nbsp;![](https://img.shields.io/badge/-Kotlin-blue?style=flat&logo=kotlin&logoColor=black)&nbsp; ![](https://img.shields.io/badge/-Android_Studio-darkred?style=flat&logo=Android&logoColor=black)&nbsp; <img src="https://github.com/AnshSinghSonkhia/Grocery-List-Creator-App/blob/master/app/src/main/res/drawable-v24/grocerycart.png" title="Business Maps App Logo" alt="Business Maps App Logo" width="100" height="100" align="right"/>&nbsp;
-A Kotlin App for creating Grocery Lists.
+A Kotlin Android App for creating Grocery Lists.
 
 
 ## 🛠 &nbsp;Tools & Technologies Used..
